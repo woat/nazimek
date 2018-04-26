@@ -24,17 +24,14 @@
     </section>
 
     <div class="container">
-
       <hr>
-
       <section class="hero is-medium" id="sec1">
         <div class="hero-body">
           <div class="columns">
             <div class="column vertical-box">
               <div class="vertical-align">
-                <h1 class="title">Ethics first.</h1>
-                <h2 class="subtitle">We support Equal Housing Oppurtunity and are commited to promote economic oppurtunity. 
-                </h2>
+                <h1 class="title">Principal First.</h1>
+                <h2 class="subtitle">We provide secure investments that fit your financial goals.</h2>
               </div>
             </div>
             <div class="column">
@@ -70,7 +67,7 @@
             <div class="column vertical-box">
               <div class="vertical-align">
                 <h1 class="title">Quality over quantity.</h1>
-                <h2 class="subtitle">Our portfolio consists of properties that are hand-selected by our seasoned professionals.</h2>
+                <h2 class="subtitle">Our exclusive listings consist of properties hand-selected by our seasoned professionals.</h2>
               </div>
             </div>
             <div class="column">
@@ -82,7 +79,7 @@
 
       <hr>
 
-      <section class="hero is-small">
+      <section class="hero is-small" id="test">
         <div class="hero-body">
           <div class="container has-text-centered">
             <h1 class="title">Interested?</h1>
@@ -90,30 +87,30 @@
           </div>
           <br>
           <div class="container">
-            <form>
+            <form action="https://mailthis.to/owo" method="POST">
               <div class="columns">
                 <div class="column is-offset-3 is-3">
                   <div class="field">
                     <div class="control">
-                      <input class="input" type="text" placeholder="Name">
+                      <input class="input" name="Name" type="text" placeholder="Name">
                     </div>
                   </div>
                 </div>
                 <div class="column is-3">
                   <div class="field">
                     <div class="control">
-                      <input class="input" type="email" placeholder="Email">
+                      <input class="input" name="Email" type="email" placeholder="Email">
                     </div>
                   </div>
                 </div>
               </div>
               <div class="columns">
                 <div class="column is-offset-3 is-6">
-                  <textarea class="textarea" placeholder="What would you like to ask?"></textarea>
+                  <textarea class="textarea" name="Message" placeholder="What would you like to ask?"></textarea>
                 </div>
               </div>
               <div class="container has-text-centered">
-                <button class="button send">send inquiry</button>
+                <input class="button send" type="submit" value="send inquiry">
               </div>
             </form>
           </div>
@@ -135,12 +132,12 @@
               <div class="column">
                 <i class="fa fa-2x fa-map-marker" aria-hidden="true"></i>
                 <h1 class="send">address</h1>
-                <h1 class="brand-sub">725 5th Ave, New York, NY 10022</h1>
+                <h1 class="brand-sub">777 Passaic Ave Suite 518, Clifton, NJ 07012</h1>
               </div>
               <div class="column">
                 <i class="fa fa-2x fa-envelope" aria-hidden="true"></i>
                 <h1 class="send">email</h1>
-                <h1 class="brand-sub">nazimek121@gmail.com</h1>
+                <h1 class="brand-sub">michaeln@strikerinvestmentrealty.com</h1>
               </div>
             </div>
           </div>

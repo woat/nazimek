@@ -18,9 +18,8 @@
       <div class="navbar-menu" id="navMenu">
         <div class="navbar-end items">
           <router-link to="/about" class="navbar-item">About Us</router-link>
-          <router-link to="/portfolio" class="navbar-item" href="#">Portfolio</router-link>
           <router-link to="/team" class="navbar-item" href="#">The Team</router-link>
-          <router-link to="#" class="navbar-item"><span class="button">Contact</span></router-link>
+          <!--<router-link to="#test" class="navbar-item"><span class="button">Contact</span></router-link>-->
         </div>
       </div>
     </nav>
