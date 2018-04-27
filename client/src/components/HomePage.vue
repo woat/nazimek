@@ -94,7 +94,7 @@
                     <div class="control">
                       <input class="input" name="Name" type="text" placeholder="Name">
                     </div>
-                  </di>
+                  </div>
                 </div>
                 <div class="column is-3">
                   <div class="field">
