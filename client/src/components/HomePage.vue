@@ -87,14 +87,14 @@
           </div>
           <br>
           <div class="container">
-            <form action="https://mailthis.to/owo" method="POST">
+            <form action="https://mailthis.to/michaeln" method="POST">
               <div class="columns">
                 <div class="column is-offset-3 is-3">
                   <div class="field">
                     <div class="control">
                       <input class="input" name="Name" type="text" placeholder="Name">
                     </div>
-                  </div>
+                  </di>
                 </div>
                 <div class="column is-3">
                   <div class="field">
