@@ -87,7 +87,7 @@
           </div>
           <br>
           <div class="container">
-            <form action="https://mailthis.to/michaeln" method="POST">
+            <form action="https://mailthis.to/michaeln@strikerinvestmentrealty.com" method="POST">
               <div class="columns">
                 <div class="column is-offset-3 is-3">
                   <div class="field">
