@@ -23,6 +23,7 @@
         </div>
       </div>
     </section>
+		<!--
     <section class="hero is-small">
       <div class="hero-body">
         <div class="container content has-text-centered">
@@ -95,6 +96,7 @@
         </div>
       </div>
     </section>
+		-->
   </div>
 </template>
 
